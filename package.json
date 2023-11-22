@@ -1,0 +1,19 @@
+{
+  "name": "account_tracker",
+  "version": "1.0.0",
+  "description": "This is a simple yet powerful income-expenditure tracker built using Node.js. With this application, you can easily manage and keep track of your finances, monitor your income and expenses, and gain insights into your spending patterns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Abilawon",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1",
+    "morgan": "^1.10.0"
+  }
+}
